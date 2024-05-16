@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=50chin"  /> -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=50chin"  />
 </div>
 
 ###
@@ -53,6 +53,8 @@
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
   <img width="12" />
 </div>
 
