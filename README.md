@@ -50,13 +50,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="react logo"  />
+  <img width="12" />
+      <img src="https://skillicons.dev/icons?i=apple" height="40" alt="react logo"  />
   <img width="12" />
 </div>
 
