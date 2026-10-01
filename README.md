@@ -46,6 +46,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="c logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=sql" height="40" alt="c logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
