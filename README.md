@@ -46,17 +46,21 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="c logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=sql" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="c logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=redux" height="40" alt="vite logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="react logo"  />
   <img width="12" />
