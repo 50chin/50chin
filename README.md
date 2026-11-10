@@ -29,27 +29,23 @@
 
 <p align="left">
 
-Я развиваюсь в сфере IT и сейчас сосредоточен на тестировании программного обеспечения
-
-Изучаю принципы QA, анализ требований, тест-дизайн и методы поиска дефектов
+QA Engineer с коммерческим опытом тестирования веб-приложений. Специализируюсь на ручном тестировании и тестировании API, активно развиваюсь в сторону автоматизации на Java. Благодаря опыту веб-разработки (React, JS/TS) понимаю, как устроены приложения изнутри, и легко локализую дефекты на уровне кода
 
 🧪 Что изучаю и использую:
  
-Ручное тестирование: функциональное, регрессионное и интеграционное
+Ручное тестирование: функциональное, регрессионное, интеграционное
 
 <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-Составление чек-листов, тест-кейсов и баг-репортов
+Тест-дизайн: составление чек-листов, тест-кейсов и баг-репортов
 
-Тестирование REST API с помощью Postman
+API: тестирование REST API в Postman (коллекции, автотесты на JS)
 
-SQL и PostgreSQL
+Базы данных: написание SQL-запросов (JOIN, CTE) для проверки данных
 
-Chrome DevTools, Git и GitHub
+Инструменты: Chrome DevTools, Jira, Git/GitHub
 
 Основы SDLC и клиентской веб-разработки: HTML, CSS, JavaScript, TypeScript, React
-
-🚀 Сейчас углубляю знания в QA и изучаю Java для дальнейшего развития в автоматизации тестирования
 
 📌 На GitHub собираю учебные проекты и практические работы, чтобы закреплять знания и развиваться как QA Engineer
 ###
@@ -59,31 +55,33 @@ Chrome DevTools, Git и GitHub
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="js logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="c logo"  />
+    <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="c logo"  />
+      <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="vite logo"  />
+   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
@@ -91,9 +89,11 @@ Chrome DevTools, Git и GitHub
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="react logo"  />
+      <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
   <img width="12" />
-      <img src="https://skillicons.dev/icons?i=apple" height="40" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+      <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
   <img width="12" />
 </div>
 
