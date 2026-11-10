@@ -1,7 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img height="200" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="auto" width="500"></div>
 
 ###
 
@@ -29,13 +28,20 @@
 
 <p align="left">
 
-QA Engineer с коммерческим опытом тестирования веб-приложений. Специализируюсь на ручном тестировании и тестировании API, активно развиваюсь в сторону автоматизации на Java. Благодаря опыту веб-разработки (React, JS/TS) понимаю, как устроены приложения изнутри, и легко локализую дефекты на уровне кода
+QA Engineer с коммерческим опытом тестирования веб-приложений
 
-🧪 Что изучаю и использую:
+Специализируюсь на ручном тестировании и тестировании API
+
+Активно развиваюсь в сторону автоматизации на Java
+
+
+
+<h3 align="left">🧪 Навыки: </h3>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
+
  
 Ручное тестирование: функциональное, регрессионное, интеграционное
-
-<img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 Тест-дизайн: составление чек-листов, тест-кейсов и баг-репортов
 
@@ -47,19 +53,18 @@ API: тестирование REST API в Postman (коллекции, авто�
 
 Основы SDLC и клиентской веб-разработки: HTML, CSS, JavaScript, TypeScript, React
 
-📌 На GitHub собираю учебные проекты и практические работы, чтобы закреплять знания и развиваться как QA Engineer
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
  
 ###
 
-<div align="left">
+<div align="centre">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
@@ -67,11 +72,11 @@ API: тестирование REST API в Postman (коллекции, авто�
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo"  />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo"  />
   <img width="12" />
-      <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="12" />
@@ -79,7 +84,7 @@ API: тестирование REST API в Postman (коллекции, авто�
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
@@ -89,11 +94,11 @@ API: тестирование REST API в Postman (коллекции, авто�
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
-      <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-      <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
+  <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
   <img width="12" />
 </div>
 
